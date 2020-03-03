@@ -1,9 +1,9 @@
 # Aplikasi-Web-Markdown-edt
 
-[Sekilas Tentang](# Sekilas-Tentang) | [Instalasi](#Instalasi) 
+[Penjelasan](# Penjelasan) | [Instalasi](#Instalasi) 
 :---:|:---:|
 
-## Sekilas Tentang
+## Penjelasan
 [`^ kembali ke atas ^`](#)
 
 Ini adalah online markdown editor yang dapat mempermudah anda dalam men-sunting dokumen dengan teknologi web, aplikasi web markdown editor memiliki tools untuk melakukan konversi text-to-HTML yang bisa digunakan untuk membuat konten web. Dengan menggunakan Mawrkdown kita dapat menulis konten HTML dengan format yang mudah dibaca dan mudah pula untuk ditulis(easy-to-read dan east-to-write).
