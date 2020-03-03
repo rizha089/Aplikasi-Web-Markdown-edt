@@ -1,5 +1,5 @@
 # Aplikasi-Web-Markdown-edt
-<h1 align="center"><img src="https://imgur.com/a/qNW5BAV"></h1>
+<h1 align="center"><img src="https://ibb.co/gT9QpJx"></h1>
 
 
 [Penjelasan](#Penjelasan) | [Instalasi](#Instalasi) 
