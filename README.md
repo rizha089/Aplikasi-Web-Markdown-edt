@@ -1,15 +1,18 @@
 # Aplikasi-Web-Markdown-edt
 
+[Sekilas Tentang](## Sekilas Tentang) | [Instalasi](## instalasi) | [Kebutuhan Sistem](### Kebutuhan sistem ) | [Proses Instalasi](# Proses Instalasi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+
 ## Sekilas Tentang
 
 Ini adalah online markdown editor yang dapat mempermudah anda dalam men-sunting dokumen dengan teknologi web, aplikasi web markdown editor memiliki tools untuk melakukan konversi text-to-HTML yang bisa digunakan untuk membuat konten web. Dengan menggunakan Mawrkdown kita dapat menulis konten HTML dengan format yang mudah dibaca dan mudah pula untuk ditulis(easy-to-read dan east-to-write).
 ## Instalasi
 
-## Kebutuhan sistem :
+### Kebutuhan sistem :
 - Unix, Linux atau Windows.
 - Apache Web server 1.3+.
 
-## Proses Instalasi :
+### Proses Instalasi :
 1. Login kedalam server menggunakan SSH.
     ```
     $ ssh student@localhost -p 2200
