@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://raw.github.com/georgeOsdDev/markdown-edit/master/images/ScreenShot.png"></h1>
 
 
-[Penjelasan](#Penjelasan) | [Instalasi](#Instalasi) 
+[Penjelasan](#Penjelasan) | [Instalasi](#Instalasi) | [Fitur](#Fitur)
 :---:|:---:|
 
 ## Penjelasan
@@ -39,4 +39,17 @@ Ini adalah online markdown editor yang dapat mempermudah anda dalam men-sunting 
     $ sudo rm -rf /var/www/html/markdown-edit
     ```
 6. Setelah semuanya dilakukan, akses http://localhost:8000 untuk melihat hasilnya.
+
+## Fitur
+[`^ kembali ke atas ^`](#)
+### Editor
+* Menampilkan nomor baris
+* Mencocokan tanda dalam dokumen
+* Drag dan Drop file
+* Mengganti tema
+* Menandakan syntaks markdown
+### Convertor
+Untuk mencovert markdown menjadi html, Markdown-Edit menggunakan Github's API sebagai standar
+### Viewer
+Untuk menampilkan hasil konversi HTML seperti Github, Markdown-Edit dapat menggunakan github.css dari highlight.js dan github-style
     
