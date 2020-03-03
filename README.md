@@ -1,5 +1,5 @@
 # Aplikasi-Web-Markdown-edt
-<h1 align="center"><img src="https://ibb.co/gT9QpJx"></h1>
+<h1 align="center"><img src="https://raw.github.com/georgeOsdDev/markdown-edit/master/images/ScreenShot.png"></h1>
 
 
 [Penjelasan](#Penjelasan) | [Instalasi](#Instalasi) 
