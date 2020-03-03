@@ -1,6 +1,6 @@
 # Aplikasi-Web-Markdown-edt
 
-[Penjelasan](# Penjelasan) | [Instalasi](#Instalasi) 
+[Penjelasan](#Penjelasan) | [Instalasi](#Instalasi) 
 :---:|:---:|
 
 ## Penjelasan
