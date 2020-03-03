@@ -3,7 +3,7 @@
 
 
 [Penjelasan](#Penjelasan) | [Instalasi](#Instalasi) | [Fitur](#Fitur)
-:---:|:---:|
+:---:|:---:|:--:|
 
 ## Penjelasan
 [`^ kembali ke atas ^`](#)
