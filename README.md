@@ -40,7 +40,7 @@ Ini adalah online markdown editor yang dapat mempermudah anda dalam men-sunting 
     ```
     $ bower install
     ```
-6. Meluncurkannya ke web server.
+6. Memindahkan project ke webroot.
     ```
     $ ln -s /home/student/markdown-edit /var/www/html/markdown-edit
     $ ls -la
